@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tianfeng GE
+- 👋 Hi, I’m Tianfeng GE.
 - 👀 I’m interested in Machine learning and Deep learning.
 - 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on ...
